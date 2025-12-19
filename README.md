@@ -33,6 +33,14 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 903：提示词小子讽刺漫画 ](#prompt-903)
+*   [案例 902：圣诞场景的圣诞贺卡 ](#prompt-902)
+*   [案例 901：金发女子自拍照 ](#prompt-901)
+*   [案例 900：都市街头服饰编辑拼贴画 ](#prompt-900)
+*   [案例 899：中国四大节日美甲四宫格 ](#prompt-899)
+*   [案例 898：高角度商业美食摄影照片 ](#prompt-898)
+*   [案例 897：2x2网格拼贴画 ](#prompt-897)
+*   [案例 896：橙汁上冲浪 ](#prompt-896)
 *   [案例 895：Gemini 3 flash广告图 ](#prompt-895)
 *   [案例 894：大唐盛世与巴黎写真照 ](#prompt-894)
 *   [案例 893：9宫格产品展示 ](#prompt-893)
@@ -236,6 +244,769 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-903"></a>
+## 案例 903：提示词小子讽刺漫画 (来源 [@dotey](https://x.com/dotey/status/2001334145386189179)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/903.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-提示词小子讽刺漫画">
+</div>
+
+**中文提示词：**
+```
+以丁聪的风格画一幅讽刺漫画，主题是：
+> 今天社交网络上被追捧的所谓AI高人,不过是 Prompt Kiddie(提示词小子)。
+> 整天转帖一些提示词,其实是在自动充当大模型的燃料。
+```
+
+<a id="prompt-902"></a>
+## 案例 902：圣诞场景的圣诞贺卡 (来源 [@NanoBanana](https://x.com/NanoBanana/status/2001234210409857077)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/902.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞场景的圣诞贺卡">
+</div>
+
+**提示词：**
+```
+a faithfully illustrated Christmas card design featuring the couple in Christmas hats, and the text "Happy Christmas 2025", it is friendly and traditional, with a classical design, in a winter wonderland
+```
+
+**中文提示词：**
+```
+一张忠实描绘圣诞场景的圣诞贺卡设计，卡片上这对夫妇戴着圣诞帽，并写着“2025圣诞快乐”。设计风格温馨传统，采用经典的冬日仙境风格。
+```
+
+<a id="prompt-901"></a>
+## 案例 901：金发女子自拍照 (来源 [@brindleyai](https://x.com/brindleyai/status/2001200342864667035)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/901.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-金发女子自拍照">
+</div>
+
+**提示词：**
+```
+{
+  "subject": {
+    "demographics": "Young female, approx 20-24 years old, Caucasian.",
+    "hair": {
+      "color": "Dirty blonde to light blonde gradient.",
+      "style": "Long, straight with slight wave, layered, casual parting.",
+      "texture": "Soft, natural strands, slightly tousled, roots visible.",
+      "movement": "Falling naturally over shoulders and back."
+    },
+    "face": {
+      "shape": "Oval with soft jawline.",
+      "eyes": "Almond-shaped, light blue/grey irises, distinct sharp black winged eyeliner.",
+      "nose": "Button nose, soft bridge.",
+      "lips": "Full, plump, rosy pink, slightly parted in a pouty expression.",
+      "skin_details": "Prominent, heavy freckles across nose and cheeks. Smooth texture but with realistic skin grain. Natural blush.",
+      "micro_details": "Mole on right upper chest, mole on left shoulder."
+    },
+    "body_proportions": {
+      "build": "Voluminous, curvy, heavy bust.",
+      "chest": "Large bust volume, prominent forward projection, deep cleavage visible.",
+      "waist_to_chest_ratio": "Significantly wider chest width compared to waist implies hourglass figure.",
+      "shoulders": "Soft, rounded, natural slope.",
+      "dominance": "Upper torso volume visually dominates the frame."
+    },
+    "clothing": {
+      "top": "Heather grey ribbed knit tank top/camisole.",
+      "fit": "Tight, form-fitting, stretching over chest volume, low scoop neckline.",
+      "straps": "Thick straps, sitting securely on shoulders."
+    },
+    "accessories": {
+      "jewelry": [
+        "Small gold hoop earrings.",
+        "Gold chain necklace with a small 'G' letter pendant.",
+        "Longer thin gold chain with a distinct kangaroo pendant."
+      ]
+    }
+  },
+  "pose": {
+    "type": "Handheld selfie perspective.",
+    "orientation": "Frontal close-up, slightly angled from above.",
+    "head_position": "Tilted slightly to subject's right.",
+    "limbs": "Right arm extended forward (out of frame) indicating holding the camera.",
+    "gaze": "Direct eye contact with lens, alluring and confident.",
+    "spine_curvature": "Slight arch implied by chest prominence."
+  },
+  "setting": {
+    "environment": "Domestic bathroom.",
+    "background_elements": "Dark brown/grey glossy tiled wall, chrome shower fixture visible on left, top of white ceramic toilet tank visible on right.",
+    "depth": "Shallow depth of field, background elements slightly out of focus."
+  },
+  "camera": {
+    "shot_type": "Close-up, selfie portrait.",
+    "angle": "High angle (slightly above eye level), typical of smartphone selfies.",
+    "focal_length": "24mm to 28mm equivalent (wide angle smartphone lens).",
+    "framing": "Chest-up shot, cropping at mid-torso.",
+    "focus": "Sharp focus on eyes and face, slight fall-off on shoulders.",
+    "perspective": "Slight foreshortening of the extended arm side."
+  },
+  "lighting": {
+    "source": "Soft, diffused overhead ambient bathroom lighting.",
+    "direction": "Front-top lighting.",
+    "highlights": "Soft specular highlights on forehead, tip of nose, chin, and upper chest curves.",
+    "shadows": "Soft shadows under the chin and defining the cleavage depth.",
+    "quality": "Natural, flattering, no harsh contrast."
+  },
+  "mood_and_expression": {
+    "tone": "Casual, sultry, confident.",
+    "expression": "Relaxed pout, 'cool girl' aesthetic.",
+    "atmosphere": "Intimate, candid."
+  },
+  "style_and_realism": {
+    "style": "Photorealistic, social media aesthetic.",
+    "fidelity": "High fidelity skin texture, no airbrushing.",
+    "imperfections": "Visible freckles, stray hairs, natural skin variation preserved."
+  },
+  "colors_and_tone": {
+    "palette": "Neutral tones (grey, beige, skin tones) with pops of blue (eyes) and gold (jewelry).",
+    "skin_tone": "Fair to light tan, warm undertones.",
+    "white_balance": "Slightly warm, indoor tungsten mix.",
+    "saturation": "Natural, slightly vibrant lips and eyes.",
+    "contrast": "Medium contrast."
+  },
+  "technical_details": {
+    "aspect_ratio": "3:4",
+    "resolution": "High resolution, sharp details.",
+    "noise": "Slight digital noise characteristic of phone camera sensors in indoor light."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+“人口统计信息”：“年轻女性，大约20-24岁，白种人。”
+“头发”： {
+颜色：从脏金色到浅金色的渐变色。
+发型：长直发，略带波浪，层次分明，随意分缝。
+“质感”：“柔软自然的发丝，略显蓬松，发根可见。”
+“动作”：“自然地垂落在肩膀和背部。”
+},
+“脸”： {
+“脸型”：“椭圆形，下颌线条柔和。”
+“眼睛”：“杏仁状，浅蓝灰色虹膜，清晰锐利的黑色上扬眼线。”
+“鼻子”：“小巧的鼻子，柔和的鼻梁。”
+“嘴唇”：“饱满、丰润、呈玫瑰粉色，微微张开，带着一丝嘟嘴的表情。”
+“皮肤细节”： “鼻子和脸颊上有明显的、较多的雀斑。质地光滑，但保留了真实的皮肤纹理。自然的红晕。”
+"micro_details": "右胸上方有一颗痣，左肩上有一颗痣。"
+},
+"body_proportions": {
+体型：丰满、曲线优美、胸部丰满。
+“胸部”：“胸部丰满，胸部前凸明显，乳沟深邃可见。”
+腰胸比：胸部宽度明显大于腰部宽度，表明身材呈沙漏形。
+“肩部”：“柔和、圆润、自然的坡度。”
+“主导性”：“上半身的体积在视觉上主导了画面。”
+},
+“衣服”： {
+上衣：浅灰色罗纹针织背心/吊带衫。
+“合身”：紧身、贴合胸部曲线，低圆领。
+“肩带”：“厚实的肩带，牢牢地贴在肩膀上。”
+},
+“配件”： {
+“珠宝”： [
+“小金圈耳环。”
+“金链项链，配有一​​个小小的字母‘G’吊坠。”
+“较长的细金链，配有独特的袋鼠吊坠。”
+]
+}
+},
+"姿势": {
+类型：手持自拍视角。
+“方向”：“正面特写，略微从上方倾斜。”
+“头部位置”： “略微向拍摄对象的右侧倾斜。”
+四肢：右臂向前伸展（超出画面），表示正在握持相机。
+“凝视”：“通过镜头直接与眼睛对视，充满魅力和自信。”
+"spine_curvature": "胸部突出所暗示的轻微弧度。"
+},
+“环境”： {
+“环境”：“家用浴室。”
+"background_elements": "深棕色/灰色光面瓷砖墙，左侧可见镀铬淋浴装置，右侧可见白色陶瓷马桶水箱顶部。"
+“景深”：“浅景深，背景元素略微失焦。”
+},
+“相机”： {
+"shot_type": "特写，自拍肖像。"
+“角度”：“高角度（略高于视线水平），是智能手机自拍的典型角度。”
+"focal_length": "24mm 至 28mm 等效焦距（广角智能手机镜头）",
+“构图”：“胸部以上镜头，裁剪至躯干中部。”
+“焦点”：“眼睛和脸部清晰聚焦，肩膀略微虚化。”
+“透视”：“伸展的手臂一侧略微缩短。”
+},
+“灯光”： {
+光源：柔和、漫射的浴室顶灯。
+“方向”：“前上照明。”
+“高光”：“额头、鼻尖、下巴和上胸曲线处的柔和镜面高光。”
+“阴影”：“下巴下方柔和的阴影勾勒出乳沟的深度。”
+“品质”：“自然、讨喜、无强烈对比。”
+},
+"mood_and_expression": {
+语气：随意、性感、自信。
+“表情”：“放松的嘟嘴，‘酷女孩’风格。”
+“氛围”：“亲密、坦诚。”
+},
+"风格与现实主义": {
+风格：写实风格，社交媒体美学。
+“真实感”： “高保真度的皮肤纹理，无修图。”
+“瑕疵”：“可见的雀斑、杂乱的毛发、自然的肤色差异均得以保留。”
+},
+"colors_and_tone": {
+“调色板”：“以中性色调（灰色、米色、肤色）为主，点缀以蓝色（眼妆）和金色（珠宝）。”
+“肤色”: “白皙至浅棕色，暖色调。”
+“白平衡”: “略微偏暖的室内钨丝灯混合模式。”
+“饱和度”：“自然、略带活力的唇部和眼部。”
+“对比度”: “中等对比度。”
+},
+"technical_details": {
+"aspect_ratio": "3:4",
+分辨率：高分辨率，细节清晰。
+“噪声”: “室内光线下手机摄像头传感器特有的轻微数字噪声。”
+}
+}
+```
+
+<a id="prompt-900"></a>
+## 案例 900：都市街头服饰编辑拼贴画 (来源 [@xmliisu](https://x.com/xmliisu/status/2001254201611964524)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/900.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-都市街头服饰编辑拼贴画">
+</div>
+
+**提示词：**
+```
+{
+  "project_title": "Urban Streetwear Editorial Collage",
+  "aspect_ratio": "9:16",
+  "aesthetic_theme": {
+    "style": "Editorial poster-style multi-panel collage",
+    "mood": "Retro analog–digital fusion",
+    "color_palette": [
+      "Warm ambers",
+      "Washed neutrals",
+      "Soft greys",
+      "Muted browns"
+    ],
+    "textures": [
+      "Reflective glass",
+      "Wool plaid",
+      "Polished leather",
+      "Stone pavement"
+    ]
+  },
+  "subject_outfit": {
+    "core": "Brown plaid blazer, white button-up shirt, yellow tie, loose dark trousers",
+    "accessories": "Brown cap, oversized amber-tinted rectangular sunglasses",
+    "tech": "Wired earphones"
+  },
+  "composition_layout": {
+    "frame_1_top_left": {
+      "type": "Reflective window shot",
+      "pose": "Holding phone in front of face",
+      "visual_effects": "Layered ghosting, architectural overlays, curvature distortion"
+    },
+    "frame_2_top_right": {
+      "type": "Close-range, downward-angled ultra-wide portrait",
+      "setting": "Cobblestone street",
+      "pose": "Leaning forward, hands in pockets, exaggerated pout",
+      "visual_effects": "Lens perspective distortion, radiating cobblestones"
+    },
+    "frame_3_bottom_right": {
+      "type": "Intimate overhead selfie",
+      "lighting": "Soft overcast",
+      "props": "Holding a drink",
+      "overlays": "Faint digital-grid, minimal square facial-bounding graphic"
+    }
+  },
+  "ui_elements": {
+    "music_player": {
+      "style": "Translucent iOS-style Apple Music mini-player",
+      "content": "“See You Again” by Tyler, The Creator",
+      "features": "Artwork, timeline, playback controls (no shadows)"
+    },
+    "graphics": "Subtle cursor-like frame lines, rectangular highlights"
+  },
+  "negative_constraints": [
+    "Stickers",
+    "Extra subjects",
+    "Wardrobe changes",
+    "Incorrect UI icons",
+    "Neon color shifts",
+    "Futuristic sci-fi elements"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"project_title": "都市街头服饰编辑拼贴画",
+"aspect_ratio": "9:16",
+"aesthetic_theme": {
+“风格”：“社论海报风格的多面板拼贴画”，
+“氛围”：“复古模拟-数字融合”，
+"color_palette": [
+“温暖的琥珀色”，
+“水洗中性色”，
+“柔和的灰色”，
+“柔和的棕色”
+],
+“纹理”：[
+“反射玻璃”，
+“羊毛格子呢”
+“抛光皮革”，
+石板路
+]
+},
+"subject_outfit": {
+“核心单品”：棕色格子西装外套、白色纽扣衬衫、黄色领带、宽松深色长裤。
+“配饰”：“棕色帽子，超大琥珀色矩形太阳镜”，
+“科技产品”：“有线耳机”
+},
+"composition_layout": {
+"frame_1_top_left": {
+“类型”：“反射窗照片”，
+“姿势”：“将手机举到脸前”，
+"视觉特效": "分层重影、建筑叠加、曲率扭曲"
+},
+"frame_2_top_right": {
+“类型”：“近距离、向下倾斜的超广角人像”，
+“场景”：“鹅卵石街道”，
+“姿势”：“身体前倾，双手插兜，夸张地撅嘴”，
+"视觉效果": "镜头透视变形，放射状鹅卵石"
+},
+"frame_3_bottom_right": {
+类型： 亲密俯视自拍，
+“光线”：“柔和的阴天”，
+“道具”：“拿着一杯饮料”，
+“叠加层”：“淡淡的数字网格，极简的方形面部轮廓图形”
+}
+},
+"ui_elements": {
+"music_player": {
+"style": "半透明 iOS 风格的 Apple Music 迷你播放器",
+内容： “Tyler, The Creator 的“See You Again””
+“功能”： “封面图、时间轴、播放控制（无阴影）”
+},
+“图形”：“类似光标的微妙边框线，矩形高光”
+},
+"negative_constraints": [
+“贴纸”，
+“额外科目”，
+“服装更换”
+“错误的用户界面图标”，
+“霓虹色彩变化”，
+“未来科幻元素”
+]
+}
+```
+
+<a id="prompt-899"></a>
+## 案例 899：中国四大节日美甲四宫格 (来源 [@lxfater](https://x.com/lxfater/status/2001587965131465046)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/899.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国四大节日美甲四宫格">
+</div>
+
+**中文提示词：**
+```
+任务：生成「中国四大节日美甲四宫格」拼贴图（2x2）
+核心指令
+基于用户提供的一张清晰手部近景照片（或同风格参考图），生成一张 2x2 四宫格拼贴图。四格必须是同一双手、同构图、同光线、同背景风格，只替换美甲设计主题。
+每格底部必须标注节日名称：春节 / 清明 / 端午 / 中秋（中文优先；如文字易错可用英文备选）。
+全局统一风格（四格都必须遵守）
+
+构图：女性手部特写近景，手指搭在柔软针织毛衣袖口或浅色布料上，浅景深，高清摄影，4k。
+光线：室内柔光（暖光为主，清明可偏自然冷柔光），背景干净、散景高级。
+
+美甲基调：通勤友好、低饱和、清透显白；甲缘干净利落；贴饰“少而准”；封层高质感不过曝。
+
+甲型：默认中长软方（若输入图甲型不同，以输入为准保持一致）。
+
+排布规则：每套都明确 “主打指（1-2根）+ 辅助指（2-3根）+ 纯净底色指（其余）”，避免每根都很花。
+
+输出排版
+
+2x2 网格拼贴，边框规整、留白一致、四格大小一致。
+每格底部加小标题：春节、清明、端午、中秋（字体干净现代、细字重、位置统一）。
+
+四格设计细化（重点：每格的“美甲定制”要足够具体）
+
+A格（左上）【春节】通勤清透红金点睛（“有年味但不俗”）
+背景散景建议：暖黄灯笼光斑 + 金色挂饰虚化（不抢主体）。
+美甲细节：
+底色：奶透裸米（带一点点果冻感），做极浅“奶透晕染”从甲根到甲尖过渡，整体清透显白。
+结构：3根纯净底色（只带极淡细闪），1根微法式，1根主打图案。
+
+法式边：选 1-2 根指甲做“极细金边法式”（线细到像金线描边），法式弧度干净利落。
+
+主打指（1根，建议无名指或中指）：极简窗花线稿（线条细、留白多），窗花只占甲面 20%-30%，下方留大面积清透底。
+
+点缀材质：
+香槟金细闪均匀但很淡，像“皮肤自带光”。
+金箔只放 2-4 片超小碎片，集中在甲根或侧边一小撮，绝不铺满。
+
+颜色控制：红色只做一个小红点/一小段红线（可在窗花中心点一下），避免大面积正红。
+
+封层：玻璃光，高光柔、不过曝。
+
+B格（右上）【清明】雾感极简青灰透（“安静干净、有雾气感”）
+
+背景散景建议：薄雾灰绿调 + 细雨光点朦胧散景。
+美甲细节：
+
+底色：冷灰透粉 或 雾灰绿透（二选一，推荐更通勤的冷灰透粉），整体偏“雾化清透”。
+
+结构：4根纯净底色 + 1根主打极简线条（非常克制）。
+
+主打指（1根，建议无名指）：
+柳叶线条：一条极细线从甲根轻轻延伸到甲中段，旁边加 1-2 笔“柳叶”短线，留白为主。
+在柳叶附近加 2-3 个雨滴光点（微小点状高光），像细雨落在甲面。
+材质：
+只允许 珠光或极细细闪（“几乎看不见但会透光”那种），不加金箔、不加大亮片。
+光感：缎光（比玻璃光更高级的柔亮，避免塑料反光）。
+
+质感控制：整体低对比、干净，不要明显纹理堆叠。
+
+C格（左下）【端午】艾草绿点题粽叶纹理（“淡淡草木气，细节耐看”）
+
+背景散景建议：艾草绿植 + 竹叶/香包虚化。
+美甲细节：
+
+底色：奶透裸米或冷调透白底（更显白），整体清透。
+
+结构：2根主题指 + 3根清透底色。
+
+主题指①（1根，建议无名指）：粽叶极简纹理
+用极淡的艾草绿做“线条压纹感”，只画 2-3 条斜向叶脉线，像“若隐若现”的叶纹。
+
+主题指②（1根，建议中指或食指）：极细金线绕一圈像绑绳
+在甲面中段或靠近甲尖处，画一圈极细金线（不要粗金条），像绑粽子的绳结意象。
+
+点缀材质：
+细闪只做“薄薄一层”，集中在甲根到甲中段，避免甲尖闪到发廉价。
+金箔仍然是 2-4 片小碎片，点在金线旁边或甲根一侧，增强“手工质感”。
+
+颜色控制：艾草绿只占少量（线条/小块），不要整甲深绿。
+
+光感：玻璃光（但高光要柔）。
+D格（右下）【中秋】月光奶透桂花金（“月光感、温柔高级、很出片”）
+背景散景建议：暖黄月灯光斑 + 桂花金色散景点点。
+美甲细节：
+
+底色：奶透米白或奶透裸米，做轻微“月光晕染”——甲根更奶透、甲尖更清亮，干净显白。
+
+结构：1根月相主打 + 1根桂花点缀 + 其余清透细闪底色。
+
+月相主打指（1根，建议无名指）：
+细线月相（月弯/半月/小满月选 1-2 个，不要一排九宫格那种），线条很细，留白大。
+
+桂花点缀指（1根，建议中指）：
+桂花金点：用极小金点做 5-8 个“散落的桂花点”，密度低、分布自然，像落在甲面。
+
+材质：香槟金细闪 + 少量金箔（更偏“月光金”），不要银闪抢戏。
+
+光感：玻璃光，整体温柔但清晰，近景细节干净。
+
+Negative Prompt（负面提示词）
+
+低清晰度，模糊，噪点，过曝，强硬阴影，塑料反光，甲面凹凸不平，涂抹脏乱，颜色过饱和，荧光色，廉价大钻堆砌，卡通贴纸感，粗糙贴饰，指甲形状扭曲，手指畸形，多余手指，皮肤质感不一致，四格不是同一双手，构图不一致，背景杂乱，网格歪斜，边框不均匀，文字水印logo，标签缺失或拼写错误
+
+请根据上面提示词生成图片
+```
+
+<a id="prompt-898"></a>
+## 案例 898：高角度商业美食摄影照片 (来源 [@linxiaobei888](https://x.com/linxiaobei888/status/2001591561302483267)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/898.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高角度商业美食摄影照片">
+</div>
+
+**中文提示词：**
+```
+一张高角度商业美食摄影照片，展示了[天妇罗]盛放在极简风格的透明玻璃盘中，配有一小玻璃碗酱油和一碗芥末。旁边放着两只筷子，背景为纯净的奶油米白色，留有充足的留白。左侧叠加了时尚的黑色无衬线字体排版，简单介绍了菜品名称、价格和搭配说明。右上角有一个极简的小Logo。采用柔和的摄影棚布光，逼真的柔和阴影，具有时尚杂志的编辑风格。该设计以优质纸张背景填满整个 16:9 画面，采用大师级平面设计，配有精致的中式排版、极其克制的植物图案和精致优雅的光线，营造出一种空灵、奢华、精致的氛围，具有最大的精致感和考究感
+```
+
+<a id="prompt-897"></a>
+## 案例 897：2x2网格拼贴画 (来源 [@xmliisu](https://x.com/xmliisu/status/2001309711971295669)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/897.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-2x2网格拼贴画">
+</div>
+
+**提示词：**
+```
+{
+  "project_specifications": {
+    "format": "2x2 Grid Collage",
+    "aspect_ratio": "4:5",
+    "aesthetic_style": "High-end Beauty Editorial",
+    "rendering_engine_hints": {
+      "realism_level": "Ultra-photorealistic",
+      "texture_quality": "8k",
+      "lighting_simulation": "Ray-traced studio lighting"
+    }
+  },
+  "global_assets": {
+    "subject_definition": {
+      "hair": {
+        "style": "Long, loosely wavy, voluminous",
+        "texture": "Natural, individual strands defined",
+        "behavior": "Messy but styled, framing face and shoulders"
+      },
+      "complexion": {
+        "skin_texture": "Porous, hyper-realistic",
+        "finish": "Dewy, glass-skin effect",
+        "makeup": {
+          "cheeks": "Heavy flush/blush",
+          "lips": "High-gloss, plump, natural pink",
+          "eyes": "Clean, defined lashes, natural brows"
+        }
+      },
+      "wardrobe": {
+        "item": "Mini dress",
+        "fit": "Bodycon / Tight",
+        "fabric": {
+          "material": "Soft textured knit / Boucle",
+          "tactility": "Fuzzy, light-catching fibers",
+          "color": "Soft mauve or neutral taupe"
+        },
+        "details": "Spaghetti straps, mid-thigh length"
+      }
+    },
+    "environment_definition": {
+      "studio_setup": {
+        "background": "Seamless paper, soft off-white/beige",
+        "atmosphere": "Clean, warm, intimate"
+      },
+      "lighting_rig": {
+        "key_light": "Large diffuse softbox (Front-Left)",
+        "fill_light": "Reflector (Right)",
+        "highlights": "Specular highlights on lips, cheekbones, and shoulders"
+      }
+    }
+  },
+  "panel_architecture": [
+    {
+      "position": "Top-Left (1)",
+      "shot_type": "Extreme Close-Up (Macro)",
+      "composition": {
+        "angle": "Low angle, looking up slightly",
+        "focus": "Mouth and nose area",
+        "depth_of_field": "Shallow"
+      },
+      "action": {
+        "primary": "Eating a strawberry",
+        "nuance": "Delicate finger hold, lips slightly parted"
+      },
+      "visual_anchors": [
+        "Moisture on strawberry surface",
+        "Gloss reflection on lips",
+        "Baby hairs at temple"
+      ]
+    },
+    {
+      "position": "Top-Right (2)",
+      "shot_type": "Medium Shot (Thigh-up)",
+      "composition": {
+        "angle": "Eye level",
+        "pose_dynamic": "Leaning forward slightly towards lens"
+      },
+      "action": {
+        "stance": "Standing straight on",
+        "arms": "Relaxed at sides",
+        "expression": "Direct gaze, alluring pout"
+      },
+      "visual_anchors": [
+        "Texture of knit dress",
+        "Collarbone shadows",
+        "Curvature of waist"
+      ]
+    },
+    {
+      "position": "Bottom-Left (3)",
+      "shot_type": "Full Body (Seated)",
+      "composition": {
+        "angle": "Side profile",
+        "framing": "Subject compacted on floor"
+      },
+      "action": {
+        "pose": "Knees to chest (fetal position variation)",
+        "interaction": "Cheek resting on knee, arms embracing legs",
+        "hair_flow": "Cascading onto the floor"
+      },
+      "visual_anchors": [
+        "Smooth leg definition",
+        "Dress stretching over thigh",
+        "Dreamy gaze"
+      ]
+    },
+    {
+      "position": "Bottom-Right (4)",
+      "shot_type": "Beauty Portrait (Head & Hands)",
+      "composition": {
+        "angle": "Frontal close-up",
+        "framing": "Chin to hairline"
+      },
+      "action": {
+        "gesture": "Chin resting on interlaced fingers",
+        "expression": "Soft smile, looking off-camera"
+      },
+      "visual_anchors": [
+        "Hand detail and manicure",
+        "Eye clarity",
+        "Flush on cheeks"
+      ]
+    }
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"项目规范": {
+"格式": "2x2 网格拼贴画",
+"aspect_ratio": "4:5",
+"aesthetic_style": "高端美容杂志",
+"渲染引擎提示": {
+"realism_level": "超逼真",
+"texture_quality": "8k",
+"lighting_simulation": "光线追踪摄影棚照明"
+}
+},
+"global_assets": {
+"subject_definition": {
+“头发”： {
+“发型”：“长款，略带波浪，蓬松”，
+“纹理”：“自然、根根分明的发丝”，
+“发型”：“凌乱但有型，修饰脸型和肩膀”
+},
+"肤色": {
+"skin_texture": "多孔，超逼真"
+“妆效”：“水润、如玻璃般光滑的肌肤效果”，
+“化妆品”： {
+“脸颊”： “浓重的红晕/腮红”
+“唇部”: “高光泽、丰盈、自然的粉红色”
+“眼睛”：“干净、轮廓分明的睫毛，自然的眉毛”
+}
+},
+“衣柜”： {
+“商品”: “迷你连衣裙”
+“fit”: “紧身/贴身”
+“织物”： {
+材质：柔软纹理针织/圈绒，
+“触感”：“毛茸茸的、能反射光线的纤维”，
+颜色：柔和的淡紫色或中性灰褐色
+},
+详情：细肩带，及大腿中部长度
+}
+},
+"environment_definition": {
+"studio_setup": {
+“背景”： “无缝纸，柔和的米白色/米色”
+氛围：干净、温暖、温馨
+},
+"lighting_rig": {
+"key_light": "大型漫射柔光箱（左前方）",
+"fill_light": "右侧反光板",
+“高光”： “嘴唇、颧骨和肩膀上的高光”
+}
+}
+},
+"panel_architecture": [
+{
+"位置": "左上(1)" ，
+"shot_type": "超近特写（微距）",
+“作品”： {
+“角度”：“低角度，略微向上看”，
+“焦点”：“嘴和鼻子区域”，
+"景深": "浅"
+},
+“行动”： {
+“主要”: “吃草莓”
+细微之处：指尖轻柔地握着，嘴唇微微张开。
+},
+“visual_anchors”：[
+“草莓表面的水分”
+“嘴唇上的光泽反射”
+“鬓角的细小绒毛”
+]
+},
+{
+"位置": "右上角(2)" ,
+"shot_type": "中景（大腿向上）",
+“作品”： {
+“角度”：“视线水平”，
+"pose_dynamic": "身体略微前倾，朝向镜头"
+},
+“行动”： {
+“站姿”：“笔直站立”，
+“手臂”：“自然垂于身体两侧”，
+“表情”：“直视，撅嘴”
+},
+“visual_anchors”：[
+“针织连衣裙的质地”
+“锁骨阴影”
+腰部曲线
+]
+},
+{
+"位置": "左下角 (3)",
+"shot_type": "全身照（坐姿）",
+“作品”： {
+"角度": "侧面轮廓",
+“框架”：“主体压在地板上”
+},
+“行动”： {
+“姿势”：“膝盖贴近胸部（胎儿姿势变体）”
+“互动”：“脸颊贴着膝盖，双臂环抱着双腿”，
+"hair_flow": "如瀑布般倾泻而下"
+},
+“visual_anchors”：[
+“腿部线条流畅”
+“裙子撑开了大腿”，
+“梦幻般的凝视”
+]
+},
+{
+"位置": "右下角 (4)",
+"shot_type": "美人肖像（头部和手部）",
+“作品”： {
+“角度”：“正面特写”
+构图：从下巴到发际线
+},
+“行动”： {
+“姿势”：“下巴搁在交叠的手指上”，
+表情： “柔和的微笑，看向镜头外”
+},
+“visual_anchors”：[
+“手部细节和美甲”，
+“视力清晰度”
+“双颊泛红”
+]
+}
+]
+}
+```
+
+<a id="prompt-896"></a>
+## 案例 896：橙汁上冲浪 (来源 [@Sheldon056](https://x.com/Sheldon056/status/2001497637124739363)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/896.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-橙汁上冲浪">
+</div>
+
+**提示词：**
+```
+A vibrant fantasy-style soda commercial where a playful young man surfs an energetic orange soda wave exploding from a cold Fanta can. Juicy orange slices, bubbly liquid arcs, exaggerated motion, warm sunlight, colorful gradient background, joyful expression, dynamic pose, hyper-realistic splash effects, cinematic advertising look, 8K, ultra sharp, bold colors, no text, no watermark
+```
+
+**中文提示词：**
+```
+一则充满活力的奇幻风格汽水广告，一位活泼的年轻人乘着从冰镇芬达罐中喷涌而出的活力四射的橙汁浪潮。画面包含：多汁的橙片、气泡翻腾的液体弧线、夸张的动作、温暖的阳光、色彩渐变的背景、快乐的表情、动感的姿势、超逼真的飞溅效果、电影级的广告画面、8K超高清、超清晰、鲜艳的色彩，无文字，无水印。
+```
 
 <a id="prompt-895"></a>
 ## 案例 895：Gemini 3 flash广告图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2001234260594974883)) 模型：Nano banana pro

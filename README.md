@@ -33,6 +33,15 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 1084：高端香水广告模板 ](#prompt-1084)
+*   [案例 1083：卧室微光里的慵懒瞬间 ](#prompt-1083)
+*   [案例 1082：黑白九宫格黑衣男子的多面情绪肖像 ](#prompt-1082)
+*   [案例 1081：黑衣女子与恶魔影迹的心理肖像 ](#prompt-1081)
+*   [案例 1080：3D文字慢动作镜头下的薯片 ](#prompt-1080)
+*   [案例 1079：OOTD时尚杂志封面 ](#prompt-1079)
+*   [案例 1078：建筑工地广告缩微图 ](#prompt-1078)
+*   [案例 1077：温馨的室内生日庆祝拼贴画 ](#prompt-1077)
+*   [案例 1076：雨夜都市的沉思女性 ](#prompt-1076)
 *   [案例 1075：笔记本纸上的创作风格来绘制内容 ](#prompt-1075)
 *   [案例 1074：天然唇部极致特写 ](#prompt-1074)
 *   [案例 1073：一个可爱的3D卡通人物 ](#prompt-1073)
@@ -119,6 +128,807 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-1084"></a>
+## 案例 1084：高端香水广告模板 (来源 [@0xbisc](https://x.com/0xbisc/status/2008098771381690572)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1084.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高端香水广告模板">
+</div>
+
+**提示词：**
+```
+{
+  "scent_profile": "Floral",
+
+  "prompt": "Ultra high-end luxury perfume campaign image for a world-class prestige fragrance. A premium rectangular perfume bottle with perfectly balanced proportions typical of iconic global luxury brands, refined, substantial, and timeless, never tall, never slender, never vial-like. The bottle is crafted from thick, heavy, crystal-clear glass with softly rounded edges, visible weight, optical depth, and precise craftsmanship, filled with luminous liquid appropriate to a high-end perfume. A minimal ivory or warm off-white label is centered on the bottle, featuring ultra-clean modern sans-serif typography, extremely sparse text, and confident negative space. The cap is a champagne-gold or pale-gold brushed metal cylinder with precise machining and subtle, controlled reflections. The bottle floats calmly in space with quiet authority and confidence. Surrounding the bottle are exactly three distinct types of scent-related visual elements autonomously selected by the AI based on the provided scent_profile. These three element types represent different dimensions of the fragrance family, such as structural material forms, botanical or organic references, and atmospheric or sensory effects. All elements originate from the broader natural, botanical, and material context of the scent profile as understood in high-end perfumery. The elements are abstracted, symbolic, refined, and art-directed, never literal, never illustrative, never decorative. The elements are positioned close to and partially embracing the bottle, following its silhouette and contours rather than floating freely in space, creating a sense of attachment and intentional interaction with the product. The elements gently overlap the bottle edges in places, while maintaining clarity of the label and overall form. Spacing is controlled and elegant, with no bulky masses and no excessive gaps, forming a cohesive sculptural arrangement designed around the bottle. The background is a rich, noble, scent-matched tonal gradient with depth and luminosity, not dark or gloomy, but dense and refined. The background color harmonizes with the scent_profile. The background maintains medium-to-high brightness with elevated color density, subtle light falloff, and a refined vignette that enhances contrast without heaviness. Lighting is museum-quality studio lighting with a controlled warm key light, soft sculpting fill, and a precise rim light defining the bottle edges against the noble background. Glass refraction and reflections are perfect and premium, with no harsh highlights. Depth of field is moderate: the bottle and label are razor sharp, while decorative elements soften subtly with depth but remain clearly articulated. The overall mood is iconic, restrained, confident, luxurious, and unmistakably expensive, resembling a flagship global luxury perfume campaign.",
+
+  "negative_prompt": "pure white background, dull gray background, muddy brown, overly dark background, gloomy lighting, flat background, e-commerce lighting, floating decorations detached from the bottle, scattered elements, bulky clusters, cheap, low-end, mass-market, indie look, playful mood, cartoon style, plastic materials, thin glass, lightweight bottle, sample bottle, vial, test tube, fashion vial, visible branding text, logos, watermarks, noise, grain, oversharpening, blown highlights, distorted glass, warped label, fisheye perspective, people, hands, extra objects",
+
+  "aspect_ratio": "3:4",
+  "quality": "ultra high detail, photorealistic, luxury commercial retouching",
+  "style": "iconic luxury perfume photography, global prestige brand, cinematic, timeless, haute parfumerie"
+}
+```
+
+**中文提示词：**
+```
+{
+"scent_profile": "花香",
+
+“提示”：这是一张超高端奢华香水广告宣传图，展现了世界级尊贵香氛的魅力。香水瓶身采用高级矩形设计，比例完美平衡，彰显全球标志性奢侈品牌的经典气质，精致、厚重、永恒，绝非纤细修长，也绝非小瓶状。瓶身由厚重、晶莹剔透的玻璃打造而成，边缘圆润柔和，质感十足，视觉深度和精湛工艺尽显匠心。瓶内盛装着与高端香水相得益彰的晶莹液体。瓶身中央饰以简约的象牙色或暖米白色标签，采用简洁现代的无衬线字体，文字极简，留白恰到好处。瓶盖为香槟金或浅金色拉丝金属圆柱体，做工精细，光泽柔和。香水瓶仿佛悬浮于空间之中，散发着沉稳的气场和自信。环绕瓶身的是三种不同的与香氛相关的视觉元素，由人工智能根据提供的香氛配置文件自动选择。这三种元素分别代表了香水家族的不同维度，例如结构……材质形态、植物或有机元素，以及氛围或感官效果。所有元素均源自高端香水领域对香氛特征更广泛的自然、植物和材质语境的理解。这些元素经过抽象化、象征化、精致化和艺术化处理，绝非写实、插图式或装饰性的。它们紧贴瓶身，部分环绕瓶身，贴合其轮廓和线条，而非自由漂浮于空间，从而营造出一种与产品紧密相连、互动交流的感受。元素在某些地方轻柔地覆盖瓶身边缘，同时保持标签和整体造型的清晰度。间距控制得当，优雅流畅，没有笨重的块状结构，也没有过多的缝隙，形成围绕瓶身设计的和谐雕塑般的布局。背景采用与香氛相匹配的丰富、高贵的色调渐变，兼具深度和光泽，而非阴暗或沉闷，而是浓郁而精致。背景色与香氛特征和谐统一。背景保持中高亮度，色彩密度高，光线衰减自然，并呈现出精致的暗角效果。增强对比度而不显厚重。灯光采用博物馆级别的摄影棚灯光，主光温暖可控，辅以柔和的塑形光和精准的轮廓光，勾勒出瓶身边缘，与高贵的背景形成鲜明对比。玻璃的折射和反射完美而高级，没有刺眼的高光。景深适中：瓶身和标签清晰锐利，装饰元素随着景深略微柔化，但依然清晰可辨。整体氛围经典、内敛、自信、奢华，且价格不菲，宛如一款全球旗舰级奢侈香水广告大片。
+
+"negative_prompt": "纯白色背景、暗灰色背景、浑浊的棕色、过暗的背景、昏暗的灯光、扁平的背景、电商灯光、与瓶子分离的漂浮装饰、散落的元素、笨重的簇状物、廉价、低端、大众市场、独立风格、俏皮的氛围、卡通风格、塑料材质、薄玻璃、轻质瓶子、样品瓶、小瓶、试管、时尚小瓶、可见的品牌文字、标志、水印、噪点、颗粒、过度锐化、高光溢出、扭曲的玻璃、变形的标签、鱼眼透视、人物、手、多余的物体",
+
+"aspect_ratio": "3:4",
+“品质”：“超高细节、照片级逼真、高端商业修图”，
+“风格”： “标志性的奢华香水摄影，全球知名品牌，电影般的，永恒的，高级香水”
+}
+```
+
+<a id="prompt-1083"></a>
+## 案例 1083：卧室微光里的慵懒瞬间 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2007876757119287381)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1083.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卧室微光里的慵懒瞬间">
+</div>
+
+**提示词：**
+```
+Vertical, realistic low-light phone selfie in a dim bedroom at night. Same face as reference (no changes). Cool bluish-purple screen glow lighting on a pale face; background mostly dark with beige blackout curtains on the left. Sleepy, cozy, late-night lo-fi vibe.
+Close-up, slightly low angle. Subject lying on stomach, propped on a grey pillow with subtle pattern. Messy black bedhead hair with wispy bangs. Soft, dreamy/blank stare, mouth slightly open. Hand near face, index finger touching lowerlip.
+Wearing a black sleeveless camisole; thin lace strap visible, left shoulder bare. Soft focus, visible grain/noise, high contrast between lit face and dark background.
+Negative Prompt:
+bright daylight, sunshine, studio/flash lighting, warm/orange tones, outdoor, sharp focus, professional camera, 4k clean, smooth skin, heavy makeup, cartoon, anime, 3D render, deformed hands, extra/missing fingers, out-of-focus face.
+```
+
+**中文提示词：**
+```
+夜晚昏暗的卧室里，用手机拍摄的竖屏低光自拍。脸部与参考图相同（未做任何修改）。苍白的脸上泛着冷调的蓝紫色屏幕光晕；背景以深色为主，左侧是米色遮光窗帘。营造出一种慵懒、舒适、深夜的低保真氛围。
+特写镜头，略低角度。人物俯卧，枕在带有细微纹路的灰色枕头上。凌乱的黑色头发，刘海稀疏。眼神柔和，略带梦幻/空洞，嘴唇微张。一只手放在脸旁，食指轻触下唇。
+身穿黑色无袖吊带背心；细蕾丝肩带清晰可见，左肩裸露。柔焦效果，可见颗粒/噪点，面部光线充足，背景较暗，对比度高。
+否定提示：
+明亮的日光、阳光、影棚/闪光灯照明、暖色调/橙色调、户外、清晰对焦、专业相机、4K 清晰、光滑的皮肤、浓妆、卡通、动漫、3D 渲染、变形的手、多余的/缺失的手指、失焦的脸。
+```
+
+<a id="prompt-1082"></a>
+## 案例 1082：黑白九宫格黑衣男子的多面情绪肖像 (来源 [@rovvmut_](https://x.com/rovvmut_/status/2008025334600564817)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1082.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑白九宫格黑衣男子的多面情绪肖像">
+</div>
+
+**提示词：**
+```
+{
+"image_type": "studio portrait collage",
+"layout": {
+"structure": "3x3 grid",
+"aspect ratio": "2:3",
+"orientation": "vertical",
+"spacing": "even margins between frames",
+"consistency": "same subject and styling across all frames"
+},
+"subject": {
+"count": 1,
+"gender_presentation": "male",
+"age_range": "late 20s to early 30s",
+"ethnicity": "unclear / ambiguous",
+"build": "athletic, lean",
+"hair": {
+"color": "dark brown",
+"style": "short sides with voluminous swept-back top",
+"texture": "smooth with natural wave"
+},
+"facial_hair": {
+"type": "light stubble",
+"density": "low to medium"
+},
+"wardrobe": {
+"top": "long-sleeve knit sweater",
+"color": "black",
+"fit": "slim fit",
+"texture": "fine ribbed or waffle knit"
+}
+},
+"expressions_and_poses": [
+"smirking with hand on chin",
+"pulling sweater collar to mouth",
+"thoughtful side gaze with hand near lips",
+"animated mid-gesture with expressive hands",
+"boxing/fist-forward dynamic pose",
+"finger-to-lips 'shh' gesture",
+"direct gaze with pointing finger",
+"mock pain or exaggerated discomfort expression",
+"head resting on hand, fatigued or bored"
+],
+"composition": {
+"framing": "medium close-up to medium shot",
+"camera_angle": "eye-level",
+"cropping": "consistent head-and-torso framing",
+"negative_space": "minimal, subject-centered"
+},
+"lighting": {
+"style": "studio",
+"setup": "single key light with soft fill",
+"direction": "front-left dominant",
+"contrast": "medium to high",
+"shadow_quality": "soft-edged shadows with sculpted facial definition"
+},
+"color_and_tone": {
+"palette": "monochrome",
+"treatment": "black and white",
+"contrast": "high contrast",
+"midtones": "well-preserved skin detail",
+"highlights": "controlled, non-blown"
+},
+"background": {
+"type": "seamless studio backdrop",
+"color": "dark gray to near-black",
+"texture": "smooth, matte",
+"distractions": "none"
+},
+"technical_details": {
+"lens_equivalent": "50mm–85mm portrait range",
+"depth_of_field": "moderate, subject fully in focus",
+"sharpness": "high",
+"grain": "minimal to none",
+"resolution": "high-resolution editorial quality"
+},
+"artistic_style": {
+"genre": "fashion/editorial portraiture",
+"mood": "confident, playful, expressive",
+"influences": "modern menswear editorial, actor portfolio photography",
+"storytelling": "personality exploration through varied expressions"
+},
+"post_processing": {
+"skin_retouching": "natural, minimal",
+"contrast_curve": "strong S-curve",
+"clarity": "moderate",
+"vignette": "subtle or none"
+},
+"typography": {
+"present": false
+},
+"overall_aesthetic": "clean, masculine, contemporary studio portrait series optimized for branding, modeling, or editorial use"
+}
+```
+
+**中文提示词：**
+```
+{
+"image_type": "工作室肖像拼贴画",
+“布局”： {
+“结构”：“3x3 网格”，
+“宽高比”: “2:3”
+“方向”: “垂直”，
+“间距”：“帧之间的均匀边距”，
+“一致性”：“所有画面主题和风格相同”
+},
+“主题”： {
+“计数”：1，
+"gender_presentation": "男",
+"age_range": "20多岁到30岁出头",
+“种族”： “不清楚/含糊不清”，
+“体型”： “运动型，精瘦”
+“头发”： {
+“颜色”: “深棕色”
+“发型”：“两侧短，顶部蓬松向后梳”，
+“纹理”：“光滑，带有自然波浪”
+},
+"facial_hair": {
+“类型”: “浅胡茬”
+“密度”：“低至中等”
+},
+“衣柜”： {
+上衣：长袖针织衫，
+“颜色：黑色”，
+“合身”: “修身”
+“纹理”: “细罗纹或华夫格针织”
+}
+},
+"expressions_and_poses": [
+“手托下巴，嘴角带着一丝冷笑”
+“把毛衣领拉到嘴边”，
+“若有所思地侧目，手放在嘴唇附近”，
+“用富有表现力的双手做出动画般的动作”
+“拳击/拳头向前动态姿势”，
+“手指放在嘴唇上，表示‘嘘’的手势”，
+“直视并用手指指向”，
+“假装痛苦或夸张的不适表情”，
+“手托着头，显得疲惫或无聊”
+],
+“作品”： {
+“构图”：“中近景到中景镜头”，
+"camera_angle": "平视"
+“裁剪”：“一致的头部和躯干构图”，
+"负空间": "极简，以主体为中心"
+},
+“灯光”： {
+"风格": "工作室",
+“设置”：“单主光搭配柔光填充”，
+“方向”：“左前主导”，
+“对比度”：“中高”，
+"shadow_quality": "柔和的阴影，勾勒出面部轮廓"
+},
+"color_and_tone": {
+"调色板": "单色",
+“处理方式”：“黑白”，
+“对比度”：“高对比度”，
+“中间色调”：“保存完好的皮肤细节”，
+“亮点”： “控制得当，未过火”
+},
+“背景”： {
+“类型”：“无缝摄影棚背景”，
+“颜色”：“深灰色到近乎黑色”，
+“质地”：“光滑，哑光”，
+“干扰因素”： “无”
+},
+"technical_details": {
+"lens_equivalent": "50mm–85mm 人像范围",
+"depth_of_field": "中等，主体完全清晰"
+“锐度”: “高”
+“颗粒”： “极少或没有”，
+“分辨率”： “高分辨率编辑质量”
+},
+"artistic_style": {
+“genre”: “时尚/编辑肖像”
+“情绪”：“自信、活泼、富有表现力”，
+“影响因素”：“现代男装时尚大片、演员作品集摄影”，
+“故事讲述”：“通过多样化的表达方式探索个性”
+},
+"post_processing": {
+"skin_retouching": "自然，极简"
+"contrast_curve": "强S曲线",
+“清晰度”：“中等”，
+“小插曲”： “含蓄或无含蓄”
+},
+"排版": {
+“存在”：否
+},
+"overall_aesthetic": "简洁、阳刚、现代的影棚肖像系列，适用于品牌推广、模特拍摄或编辑用途"
+}
+```
+
+<a id="prompt-1081"></a>
+## 案例 1081：黑衣女子与恶魔影迹的心理肖像 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/2007987863993135476)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1081.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑衣女子与恶魔影迹的心理肖像">
+</div>
+
+**提示词：**
+```
+{ "composition": { "framing": "vertical portrait, mid-torso crop", "subject_position": "subject placed slightly left of center, facing right in three-quarter profile", "negative_space": "large empty wall space on right used to project shadow", "visual_concept": "contrast between subject and symbolic shadow creating duality" }, "subject": { "gender_presentation": "female-presenting", "age_range": "young adult", "pose": "right hand raised with index finger touching lips, contemplative stance", "facial_expression": "pensive, introspective, slightly tense", "gaze_direction": "looking off-frame to the right" }, "hair": { "color": "dark brown", "style": "messy bun with loose strands framing face", "texture": "natural, slightly tousled" }, "clothing": { "type": "tailored blazer", "color": "matte black", "style": "minimalist, formal, modern", "fit": "structured shoulders, fitted silhouette", "details": " no visible accessories" }, "lighting": { "light_source": "single hard light positioned front-left of subject", "quality": "hard, directional", "shadow_behavior": "sharp, high-contrast shadow cast onto wall", "mood_effect": "dramatic, psychological, symbolic" }, "shadow": { "shape": "human silhouette with exaggerated devil horns", "clarity": "well-defined edges", "symbolism": "inner conflict, hidden nature, dual personality" }, "color_palette": { "dominant_colors": [ "black", "warm beige", "soft brown" ], "saturation": "low", "contrast": "high between subject and background" }, "background": { "type": "plain interior wall", "texture": "subtle painted wall grain", "color": "off-white / light beige", "environment": "studio or controlled indoor space" }, "camera_characteristics": { "lens_look": "standard to short telephoto perspective", "depth_of_field": "moderate, subject and shadow in focus", "distortion": "minimal", "angle": "eye-level" }, "artistic_style": { "genre": "conceptual portrait photography", "aesthetic": "moody, minimalist, psychological", "influences": "symbolism, chiaroscuro lighting", "narrative": "visual metaphor of hidden thoughts or darker inner self" }, "post_processing": { "skin_tone": "natural, softly smoothed", "color_grading": "neutral with slight warmth", "sharpening": "moderate on facial features", "noise": "minimal" }, "overall_tone": { "emotion": "introspective, tense, mysterious", "visual_message": "contrast between outward composure and inner complexity" } }
+```
+
+**中文提示词：**
+```
+{ "构图": { "取景": "竖幅肖像，半身特写", "主体位置": "主体位于画面中心偏左，面向右侧，四分之三侧面", "留白": "右侧大片空白墙面用于投射阴影", "视觉概念": "主体与象征性阴影形成对比，营造二元性" }, "主体": { "性别呈现": "女性", "年龄范围": "青年", "姿势": "右手抬起，食指轻触嘴唇，沉思的姿态", "面部表情 "沉思，内省，略显紧张", "目光方向 "看向画面右侧外" }, "头发": { "颜色": "深棕色", "造型 "凌乱的发髻，几缕碎发垂在脸颊两侧", "质感 "自然，略显蓬松" }, "服装": { "类型 "修身西装外套", "颜色 "哑光黑", "款式：" “极简主义、正式、现代”“合身”“结构化的肩部，修身的轮廓”“细节”“无可见配饰”},“光线”:{“光源”:“位于主体左前方的一盏硬光”“质量”:“硬光，定向光”“阴影行为”:“投射在墙上的清晰、高对比度的阴影”“情绪效果”:“戏剧性的、心理的、象征性的”},“阴影”:{“形状”:“带有夸张恶魔角的轮廓”“清晰度”:“清晰的边缘”“象征意义”:“内心冲突、隐藏的本性、双重人格”},“调色板”:{“主色调”:[“黑色”、“暖米色”、“柔和的棕色”]“饱和度”:“低”“对比度”:“主体与背景之间对比度高”},“背景”:{“类型”:“普通的内墙”“纹理”:“细微的墙面纹理”“颜色”:“灰白色/浅色米色", "环境": "影棚或可控室内空间" }, "相机特性": { "镜头视角": "标准至短焦远摄视角" "景深": "中等，主体和阴影清晰" "畸变": "极少" "角度": "平视" }, "艺术风格": { "类型": "概念人像摄影" "美学": "情绪化、极简主义、心理" "影响": "象征主义、明暗对比" "叙事 "隐藏思想或内心深处的视觉隐喻" }, "后期处理 { "肤色": "自然、柔和" "色彩分级 "中性，略带暖色调" "锐化 "面部特征适中" "噪点 "极少" }, "整体色调 { "情绪": "内省、紧张、神秘" "视觉信息 "对比度" }介于外在的沉着冷静和内在的复杂复杂之间” } }
+```
+
+<a id="prompt-1080"></a>
+## 案例 1080：3D文字慢动作镜头下的薯片 (来源 [@Ankit_patel211](https://x.com/Ankit_patel211/status/2007849409485402510)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1080.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D文字慢动作镜头下的薯片">
+</div>
+
+**提示词：**
+```
+{
+  "project_configuration": {
+    "shot_type": "macro_still_image",
+    "global_settings": {
+      "aspect_ratio": "9:16",
+      "chaos_weight": 15,
+      "color_profile": "high-key",
+      "environment": {
+        "backdrop": "clean_white",
+        "lighting_style": "cinematic_bloom",
+        "atmosphere": "ethereal"
+      }
+    },
+    "camera_optics": {
+      "body": "Canon EOS R5",
+      "lens": "85mm f/1.2",
+      "depth_of_field": "shallow_bokeh",
+      "focus_point": "snack_and_cream_interaction"
+    }
+  },
+  "scene_data": [
+    {
+      "id": "item_001",
+      "snack_component": {
+        "type": "herb-seasoned chips",
+        "surface": "crisp_golden",
+        "physics": "suspended_mid_air"
+      },
+      "fluid_component": {
+        "material": "Mediterranean herb cream",
+        "color": "thick_white",
+        "behavior": "frozen_splash_arc",
+        "texture": "glossy"
+      },
+      "particle_system": {
+        "frozen_elements": "liquid_droplets",
+        "spices": ["oregano_flakes", "thyme_flakes"],
+        "debris": "hyper-detailed_crumbs"
+      },
+      "text_overlay": {
+        "main_text": "HERB CRUNCH",
+        "main_text_style": "Bold extruded 3D lettering, creamy white with soft green edge glow",
+        "secondary_text": "herb burst • ultra crisp • chef inspired",
+        "secondary_text_style": "Tiny funky handwritten sans",
+        "placement": "Upper third, floating behind chips",
+        "integration": "Text appears suspended in space, harmonized with splash composition"
+      }
+    },
+    {
+      "id": "item_002",
+      "snack_component": {
+        "type": "banana chips",
+        "surface": "crisp",
+        "physics": "suspended"
+      },
+      "fluid_component": {
+        "material": "vanilla cream",
+        "color": "thick_white",
+        "behavior": "frozen_burst",
+        "texture": "soft_creamy"
+      },
+      "particle_system": {
+        "frozen_elements": "soft_arc_droplets",
+        "spices": ["fine_sugar_dust"],
+        "debris": "detailed_banana_crumbs"
+      },
+      "text_overlay": {
+        "main_text": "BANANA BLISS",
+        "main_text_style": "Rounded 3D bubble text, soft pastel yellow with creamy highlights",
+        "secondary_text": "sweet crunch • real banana • smooth finish",
+        "secondary_text_style": "Tiny funky doodle-style lettering",
+        "placement": "Center-right, slightly tilted",
+        "integration": "Playful floating text, poster-style balance"
+      }
+    },
+    {
+      "id": "item_003",
+      "snack_component": {
+        "type": "taro chips",
+        "surface": "lavender-tinted_crisp",
+        "physics": "suspended"
+      },
+      "fluid_component": {
+        "material": "taro cream",
+        "color": "pastel-purple",
+        "behavior": "frozen_eruption",
+        "texture": "glossy_viscous"
+      },
+      "particle_system": {
+        "frozen_elements": "mid-air_droplets",
+        "spices": ["sugar-dust_particles"],
+        "debris": "soft_drifting_taro_crumbs"
+      },
+      "text_overlay": {
+        "main_text": "TARO POP",
+        "main_text_style": "Clean geometric 3D text, pastel purple with soft neon rim light",
+        "secondary_text": "earthy sweet • creamy texture • premium bite",
+        "secondary_text_style": "Tiny funky mono-sans",
+        "placement": "Upper left, aligned with splash curve",
+        "integration": "Text glow matches taro cream color palette"
+      }
+    },
+    {
+      "id": "item_004",
+      "snack_component": {
+        "type": "cheese crackers",
+        "surface": "textured",
+        "physics": "suspended"
+      },
+      "fluid_component": {
+        "material": "cheese dip",
+        "color": "pale-yellow",
+        "behavior": "frozen_splash",
+        "texture": "thick"
+      },
+      "particle_system": {
+        "frozen_elements": "static_droplets",
+        "spices": ["cheddar_powder"],
+        "debris": "soft_drifting_cracker_crumbs"
+      }
+```
+
+**中文提示词：**
+```
+{
+"project_configuration": {
+"shot_type": "macro_still_image",
+"global_settings": {
+"aspect_ratio": "9:16",
+"chaos_weight": 15,
+"color_profile": "高调",
+“环境”： {
+“背景”： “纯白”
+"lighting_style": "cinematic_bloom",
+“氛围”： “空灵的”
+}
+},
+"camera_optics": {
+“机身”: “佳能 EOS R5”
+镜头：85mm f/1.2，
+"景深": "浅散景",
+"focus_point": "snack_and_cream_interaction"
+}
+},
+"scene_data": [
+{
+"id": "item_001",
+"snack_component": {
+“类型”: “香草调味薯片”
+"表面": "crisp_golden",
+"physics": "悬停在空中"
+},
+"fluid_component": {
+“成分”： “地中海草本霜”，
+"color": "thick_white",
+"行为": "frozen_splash_arc",
+“质感”： “光泽”
+},
+"particle_system": {
+"frozen_elements": "liquid_droplets",
+香料：[牛至片，百里香片]
+"碎片": "超细节碎屑"
+},
+"text_overlay": {
+"main_text": "香草脆片",
+"main_text_style": "粗体立体3D字体，乳白色，边缘带有柔和的绿色光晕",
+"secondary_text": "香草爆浆 • 超脆 • 主厨灵感"
+"secondary_text_style": "Tiny funky handwritten sans",
+“位置”：“上三分之一，漂浮在薯片后面”，
+“融合”：“文字仿佛悬浮在空间中，与泼墨构图和谐统一”
+}
+},
+{
+"id": "item_002",
+"snack_component": {
+“类型”: “香蕉片”
+表面： 酥脆，
+“物理学”： “暂停”
+},
+"fluid_component": {
+“材料”: “香草奶油”
+"color": "thick_white",
+"行为": "frozen_burst",
+质地：柔滑细腻
+},
+"particle_system": {
+"frozen_elements": "soft_arc_droplets",
+香料：["细糖粉"]，
+"碎片": "详细的香蕉屑"
+},
+"text_overlay": {
+"main_text": "香蕉的幸福"
+"main_text_style": "圆润的3D气泡文字，柔和的粉黄色，带有奶油色高光",
+"secondary_text": "香甜酥脆 • 真香蕉 • 口感顺滑"
+"secondary_text_style": "Tiny funky doodle style lettering",
+“位置”：“居中偏右，略微倾斜”
+“融合”：“趣味十足的悬浮文字，海报式的平衡”
+}
+},
+{
+"id": "item_003",
+"snack_component": {
+“类型”： “芋头片”
+"表面": "淡紫色_清脆"
+“物理学”： “暂停”
+},
+"fluid_component": {
+“材料”: “芋头霜”
+“颜色”: “淡紫色”
+"行为": "冻结喷发",
+"texture": "glossy_viscous"
+},
+"particle_system": {
+"frozen_elements": "空中液滴",
+“香料”：[“糖粉颗粒”]，
+"碎片": "柔软的漂浮芋头屑"
+},
+"text_overlay": {
+"main_text": "芋头流行",
+"main_text_style": "简洁的几何3D文字，淡紫色，带有柔和的霓虹边缘光"
+"secondary_text": "泥土般的甜味 • 奶油般的质地 • 高级口感",
+"secondary_text_style": "Tiny funky monosans",
+“位置”：“左上角，与飞溅曲线对齐”
+“整合”：“文字发光与芋头奶油色调相匹配”
+}
+},
+{
+"id": "item_004",
+"snack_component": {
+“类型”：“奶酪饼干”，
+“表面”: “有纹理的”，
+“物理学”： “暂停”
+},
+"fluid_component": {
+“材料”: “奶酪蘸酱”
+“颜色”： “淡黄色”，
+"行为": "frozen_splash",
+“质地”： “厚实”
+},
+"particle_system": {
+"frozen_elements": "static_droplets",
+香料：["切达干酪粉"]，
+"碎片": "柔软的漂浮饼干屑"
+}
+```
+
+<a id="prompt-1079"></a>
+## 案例 1079：OOTD时尚杂志封面 (来源 [@rionaifantasy](https://x.com/rionaifantasy/status/2007871901289554096)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1079.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-OOTD时尚杂志封面">
+</div>
+
+**中文提示词：**
+```
+基于我提供的【参考人物照片】生成一张“穿搭拆解信息图”（Outfit Breakdown）。
+【硬性要求】
+
+人物居中、清晰、与参考照片一致（同一人同一穿搭）。
+四周用标注卡片 + 引线箭头拆解单品。
+每个标注卡片必须包含：单品小图 （真实感图片，不是动画风格）+ 名称（中文为主）+ 作用 + 价格（USD；不确定就区间并标注估价）。
+卡片排版整齐，避免遮挡人物主体与关键单品。
+【穿搭拆解（自动识别并补全）】
+
+配饰：帽子 / 眼镜 / 耳饰 / 项链 / 手表
+外层：外套 / 夹克 / 西装 / 大衣 / 开衫
+上装：T恤 / 衬衫 / 针织 / 卫衣
+下装：牛仔裤 / 西裤 / 裙子 / 短裤
+鞋：运动鞋 / 皮鞋 / 靴子 / 高跟鞋
+包：托特 / 腋下包 / 双肩包 / 邮差包
+贴身层（合规服饰推测）：【推测】内衣/内裤/情趣内衣/背心打底/安全裤/袜子（必须标注【推测】）
+【私人物品 EDC（氛围感版本，合规）】
+
+在人物周围额外增加 6–10 个“随身物品/洗漱与氛围用品”标注卡片，要求与人物风格匹配（通勤/约会/街头/派对/健身 其一）：
+香水 / 口红或润唇膏 / 防晒 / 护肤小样 / 身体乳 / 耳机 / 随身听 / 游戏机（可选）
+剃毛刀/剃须刀 / 口香糖或薄荷糖 / 打火机与香烟/项链/耳钉/乳钉/舌钉（可选）
+香薰蜡烛或香薰喷雾（可选）
+褪黑素 / 非那雄胺片 等（可选）
+创可贴 / 湿巾 / 避孕套/飞机杯/震动棒/跳蛋/润滑液/肛塞/口球/乳夹（可选）
+
+【推测规则】
+
+对看不见的贴身层可以推测，但必须标注【推测】；最多给 2 个候选，并标明“更可能”的那个。
+EDC 根据人物风格与场景选择，保持合理与一致性，不要堆砌不相关物品。
+【价格规则（USD）】
+
+价格统一用美元：例如 $79 或 $80–$120（估价）。
+给真实合理的电商常见价位；不确定则给区间，并标注“估价”。
+整体价位层级保持一致：{平价 / 中端 / 高端}。
+若识别出品牌与具体型号：给单一价格；若不确定品牌：给区间价 + “估价”。
+【版式】
+
+杂志感信息图风格：背景干净、文字清晰、卡片整齐、信息密度高但不杂乱。
+
+标题：{……OOTD}
+
+风格关键词：{风格关键词}
+
+适用场景：{场景}
+【新增：全身 OOTD 总估值（必须输出）】
+
+在信息图底部增加一个汇总模块（Summary Bar）：
+全身 OOTD 总估值（USD）：$X（估价）
+若单品存在区间价：同时给出 最低估值 与 最高估值：
+总估值区间：$X_low – $X_high（估价）
+计算规则：
+单品为单一价格 → 直接相加
+单品为区间价 → 低位相加得到 X_low，高位相加得到 X_high
+EDC 物品不计入 OOTD 总估值（除非明确属于穿搭单品，如包、配饰）
+```
+
+<a id="prompt-1078"></a>
+## 案例 1078：建筑工地广告缩微图 (来源 [@aleenaamiir](https://x.com/aleenaamiir/status/2008017541340565526)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1078.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-建筑工地广告缩微图">
+</div>
+
+**提示词：**
+```
+A miniature construction crew assembling [PRODUCT] like a skyscraper. Cranes, scaffolding, sparks flying. Playful but hyper-real, brand-campaign ready.
+```
+
+**中文提示词：**
+```
+一支微缩建筑队正在组装[产品]，就像建造摩天大楼一样。起重机、脚手架、火花四溅。既充满趣味又无比逼真，随时可用于品牌宣传活动。
+```
+
+<a id="prompt-1077"></a>
+## 案例 1077：温馨的室内生日庆祝拼贴画 (来源 [@AIwithkhan](https://x.com/AIwithkhan/status/2008009106448412951)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1077.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-温馨的室内生日庆祝拼贴画">
+</div>
+
+**提示词：**
+```
+A cozy indoor birthday celebration collage featuring the same woman in multiple moments. Warm, soft-lit living room with neutral beige tones. Colorful “HAPPY BIRTHDAY” decorative banner hanging on the wall as party décor. In one frame, she sits cross-legged on a couch holding transparent confetti balloons and solid color balloons, smiling warmly. In another frame, she raises a large arch of colorful balloons above her head, celebrating joyfully as confetti falls. In another frame, she sits on the couch blowing out candles on a birthday cake placed on a wooden coffee table in front of her, holding balloons in one hand. Casual cozy outfit, natural expressions, realistic skin tones, warm ambient lighting, festive yet intimate home celebration mood, lifestyle photography style, clean composition, ultra-realistic, 1:1 aspect ratio.
+```
+
+**中文提示词：**
+```
+一组温馨的室内生日庆祝拼贴画，展现了同一位女士的多个瞬间。温暖柔和的客厅灯光，以中性米色调为主。墙上悬挂着色彩缤纷的“生日快乐”装饰横幅，作为派对装饰。其中一张照片中，她盘腿坐在沙发上，手捧透明的五彩纸屑气球和纯色气球，笑容灿烂。另一张照片中，她高举着一个巨大的彩色气球拱门，五彩纸屑飘落，她欢欣雀跃。还有一张照片中，她坐在沙发上，吹灭摆放在面前木质茶几上的生日蛋糕上的蜡烛，一只手拿着气球。照片风格休闲舒适，人物表情自然，肤色真实，环境灯光温暖，营造出既喜庆又温馨的居家庆祝氛围，展现了生活方式摄影的风格，构图简洁，画面超写实，宽高比为1:1。
+```
+
+<a id="prompt-1076"></a>
+## 案例 1076：雨夜都市的沉思女性 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/2007996411955286116)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1076.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-雨夜都市的沉思女性">
+</div>
+
+**提示词：**
+```
+{
+  "type": "image_generation_prompt",
+  "aspect_ratio": "9:16",
+  "style": "hyper-realistic cinematic night portrait",
+  "identity_preservation": {
+    "use_reference_image": true,
+    "strict_identity_lock": true,
+    "alter_face": false,
+    "alter_hair": false,
+    "notes": "Preserve 100% of the subject’s face, facial structure, proportions, skin texture, and hairstyle exactly as in the reference image."
+  },
+  "subject": {
+    "gender": "female",
+    "pose": {
+      "position": "standing outdoors in the rain at night",
+      "head": "tilted slightly upward",
+      "gaze": "looking upward, feeling the rain"
+    },
+    "expression": "intense, emotional, contemplative",
+    "appearance": {
+      "hair": {
+        "state": "wet and tousled",
+        "notes": "Hair must remain identical to the reference image, only affected naturally by rain"
+      },
+      "skin": {
+        "details": [
+          "raindrops glistening on the face",
+          "natural skin texture",
+          "no smoothing or beautification"
+        ]
+      }
+    },
+    "wardrobe": {
+      "top": "soaked white button-up shirt clinging naturally to the body",
+      "accessories": [
+        "luxury wristwatch on the wrist"
+      ]
+    }
+  },
+  "environment": {
+    "setting": "outdoor urban environment at night",
+    "weather": "heavy rain",
+    "atmosphere": "moody, dramatic, cinematic"
+  },
+  "lighting": {
+    "style": "dramatic low-key lighting",
+    "features": [
+      "deep shadows",
+      "strong highlights on water droplets",
+      "cinematic contrast"
+    ]
+  },
+  "visual_effects": {
+    "rain": "water droplets frozen in motion",
+    "motion": "subtle rain streaks visible",
+    "depth": "cinematic depth of field"
+  },
+  "camera": {
+    "shot_type": "portrait",
+    "angle": "eye-level to slightly low",
+    "focus": "sharp focus on face and upper body",
+    "look": "professional photography style"
+  },
+  "quality": {
+    "resolution": "high resolution",
+    "realism": "ultra-photorealistic",
+    "detail_level": "extreme detail in skin, fabric, water, and lighting"
+  },
+  "constraints": [
+    "Do not alter face or hair",
+    "No artificial filters",
+    "No cartoon or stylized effects",
+    "No distorted anatomy",
+    "No text or watermarks"
+  ],
+  "output_goal": "Create a hyper-realistic cinematic night portrait of a woman standing in the rain, preserving her exact facial identity and hairstyle, with dramatic lighting, visible rain droplets, and an intense emotional atmosphere."
+}
+```
+
+**中文提示词：**
+```
+{
+"type": "image_generation_prompt",
+"aspect_ratio": "9:16",
+“风格”：“超写实电影夜景肖像”，
+"identity_preservation": {
+"use_reference_image": true,
+"strict_identity_lock": true,
+"alter_face": false,
+"alter_hair": false,
+备注：“100% 保留人物面部、面部结构、比例、皮肤纹理和发型，与参考图像完全一致。”
+},
+“主题”： {
+"性别": "女性",
+"姿势": {
+“位置”：“夜晚站在雨中的户外”，
+“头部”： “略微向上倾斜”，
+“凝视”： “抬头仰望，感受雨水”
+},
+“表情”：“强烈的、充满情感的、沉思的”，
+“外貌”： {
+“头发”： {
+“状态”： “湿漉漉的，蓬乱的”，
+备注：“头发必须与参考图片完全一致，只能自然地受到雨水的影响。”
+},
+“皮肤”： {
+“细节”： [
+“雨滴在脸上闪闪发光”，
+“自然肌肤纹理”，
+“未经任何修饰或美化”
+]
+}
+},
+“衣柜”： {
+“上衣”：“湿透的白色纽扣衬衫自然地贴在身上”，
+“配件”： [
+“腕间奢华腕表”
+]
+}
+},
+“环境”： {
+“场景”: “夜晚的户外城市环境”，
+“天气”：“大雨”，
+“氛围”： “情绪饱满、戏剧化、电影感十足”
+},
+“灯光”： {
+“风格”：“戏剧性的低调照明”，
+“特征”： [
+“深邃的阴影”，
+“水滴上的高光很突出”，
+“电影对比”
+]
+},
+"视觉效果": {
+“雨”: “运动中凝固的水滴”，
+“运动”：“可以看到细微的雨痕”，
+“景深”: “电影景深”
+},
+“相机”： {
+"shot_type": "肖像",
+“角度”：“视线水平到略低”，
+“焦点”: “清晰聚焦于面部和上半身”，
+“外观”：“专业摄影风格”
+},
+“质量”： {
+“分辨率”: “高分辨率”
+“真实感”: “超逼真”，
+"detail_level": "皮肤、织物、水和光照的细节都非常丰富"
+},
+“约束”：[
+“不要改变脸部或发型”，
+“不使用人工滤镜”，
+“没有卡通或风格化的效果”，
+“没有解剖结构畸形”
+“无文字或水印”
+],
+"output_goal": "创作一幅超逼真的电影式夜景肖像，描绘一位女性站在雨中，保留她完整的面部特征和发型，运用戏剧性的光线、清晰可见的雨滴和强烈的情感氛围。"
+}
+```
 
 <a id="prompt-1075"></a>
 ## 案例 1075：笔记本纸上的创作风格来绘制内容 (来源 [@umesh_ai](https://x.com/umesh_ai/status/2008087921723847021?referrer=opennana.com)) 模型：Nano banana pro
